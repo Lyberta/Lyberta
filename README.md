@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lyberta
-- 👀 I’m interested in C++, human psychology, economics.
-- 🌱 I’m currently learning human psychology, economics.
+- 👀 I’m interested in C++, human psychology, economics, leadership, asset management.
+- 🌱 I’m currently learning human psychology, economics, leadership, asset management.
 - 💞️ I’m looking to collaborate on building mental health and life coaching services.
 - 📫 How to reach me ...
 
