@@ -10,6 +10,8 @@ Big fan of [Taoism](https://en.wikipedia.org/wiki/Taoism) and especially [Wu Wei
 
 Rigid people are like bricks. Be better than them. [Be like water](https://www.youtube.com/watch?v=5JpIHeyUfVo) and make bricks sink in you.
 
+Notice how most of the technology tries to turn humans into the machines instead of helping the humans being themselves. Isn't it completely backwards?
+
 Potentially available as a private life coach or just providing good vibes.
 
 <!---
