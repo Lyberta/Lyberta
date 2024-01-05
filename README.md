@@ -1,10 +1,10 @@
-## 👋 Hi, I’m @Lyberta
+# 👋 Hi, I’m @Lyberta
 
 ## 👀 I’m interested in
 
 * C++
 * Markdown/CommonMark
-* HTML
+* HTML/CSS/JavaScript and derivatives
 * Human psychology
 * Economics
 * Leadership
