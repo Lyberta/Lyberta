@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @Lyberta
-- 👀 I’m interested in C++, human psychology, economics, leadership, asset management.
-- 🌱 I’m currently learning human psychology, economics, leadership, asset management.
-- 💞️ I’m looking to collaborate on building mental health and life coaching services.
-- 📫 How to reach me ...
+## 👋 Hi, I’m @Lyberta
+
+## 👀 I’m interested in
+
+* C++
+* Markdown/CommonMark
+* HTML
+* Human psychology
+* Economics
+* Leadership
+* Asset management
+
+## 🌱 I’m currently learning
+
+* Human psychology
+* Economics
+* Leadership
+* Asset management
+
+## 💞️ I’m looking to collaborate on
+
+* Building mental health and life coaching services
+
+## 📫 How to reach me ...
+
+* TODO
 
 Like Thanos, [I am inevitable](https://www.youtube.com/watch?v=gSh_8GELo2w). And I make stuff perfectly balanced, as all things should be.
 
