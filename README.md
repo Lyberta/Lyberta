@@ -19,7 +19,7 @@
 
 ## 💞️ I’m looking to collaborate on
 
-* Building mental health and life coaching services
+* [Singularity movement](https://github.com/SingularityMovement/Main)
 
 ## 📫 How to reach me ...
 
