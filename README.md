@@ -33,8 +33,6 @@ Rigid people are like bricks. Be better than them. [Be like water](https://www.y
 
 Notice how most of the technology tries to turn humans into the machines instead of helping the humans being themselves. Isn't it completely backwards? Humans surely are weird creatures - constantly creating the tools of their own suffering.
 
-Potentially available as a private life coach or just providing good vibes.
-
 <!---
 Lyberta/Lyberta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
